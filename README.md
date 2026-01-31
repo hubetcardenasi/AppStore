@@ -1,0 +1,2 @@
+# AppStore
+Catálogo de aplicaciones
