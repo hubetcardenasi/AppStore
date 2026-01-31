@@ -1,0 +1,33 @@
+[
+  {
+    "id": "volado",
+    "name": "Volado Pro",
+    "packageName": "com.hci.volado",
+    "versionCode": 3,
+    "versionName": "1.0.0",
+    "icon": "icons/volado.png",
+    "apk": "apks/volado.apk",
+    "shortDescription": "Un volado virtual.",
+    "longDescription": "Incluye volado de moneda.",
+    "sizeBytes": 2048000,
+    "screenshots": [
+      "screenshots/volado_1.jpg",
+      "screenshots/volado_2.jpg"
+    ]
+  },
+  {
+    "id": "watchhome",
+    "name": "Watch Home",
+    "packageName": "com.hci.watchhome",
+    "versionCode": 5,
+    "versionName": "1.0.0",
+    "icon": "icons/watchhome.png",
+    "apk": "apks/watchhome.apk",
+    "shortDescription": "Reloj de escritorio.",
+    "longDescription": "Convierte tu dispositivo en un reloj de escritorio.",
+    "sizeBytes": 1024000,
+    "screenshots": [
+      "screenshots/watchhome_1.jpg"
+    ]
+  }
+]

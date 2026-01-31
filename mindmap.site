@@ -1,0 +1,25 @@
+com.tuapp.store/
+│
+├── data/
+│   ├── local/
+│   │   ├── catalog.json
+│   │   └── LocalCatalogDataSource.kt
+│   ├── repository/
+│   │   └── StoreRepository.kt
+│   └── model/
+│       └── StoreApp.kt
+│
+├── domain/
+│   ├── GetCatalogUseCase.kt
+│   └── CheckUpdatesUseCase.kt
+│
+├── ui/
+│   ├── catalog/
+│   │   ├── CatalogScreen.kt
+│   │   └── CatalogViewModel.kt
+│   ├── detail/
+│   │   ├── DetailScreen.kt
+│   └── navigation/
+│       └── StoreNavHost.kt
+│
+└── MainActivity.kt
